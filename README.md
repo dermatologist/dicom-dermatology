@@ -1,4 +1,4 @@
-# dicom-dermatology  : DICOM 4 Dermatology
+# DICOM 4 Dermatology
 
 ## About
 This is a meta-repository of dicoderma (a Java library) and dit4ij (an ImageJ plugin). [Read this paper]() for more information.
