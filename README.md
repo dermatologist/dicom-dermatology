@@ -23,7 +23,7 @@ mvn -Dmaven.test.skip=true clean install
 cd ../dit4ij
 mvn -Dmaven.test.skip=true clean package
 ```
-* This generates the plugin file dit4ij<VERSION>.jar in the target folder.
+* This generates the plugin file dit4ij-VERSION-.jar in the target folder.
 * Install the plugin in ImageJ as described [here](https://imagej.net/Installing_3rd_party_plugins).
 
 ### [Demonstration video]()
