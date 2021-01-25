@@ -26,7 +26,7 @@ mvn -Dmaven.test.skip=true clean package
 * This generates the plugin file dit4ij-VERSION-.jar in the target folder.
 * Install the plugin in ImageJ as described [here](https://imagej.net/Installing_3rd_party_plugins).
 
-### [Demonstration video]()
+### [Demonstration video](https://youtu.be/I1tVzJJqKW4)
 
 ### Contributing
 Please submit pull requests in the submodules.
