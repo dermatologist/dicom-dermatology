@@ -1,6 +1,6 @@
 [submodule "dicoderma"]
 	path = dicoderma
-	url = ../dicoderma.git
+	url = https://github.com/dermatologist/dicoderma.git
 [submodule "dit4ij"]
 	path = dit4ij
-	url = ../dit4ij.git
+	url = https://github.com/dermatologist/dit4ij.git
