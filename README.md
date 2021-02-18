@@ -1,7 +1,7 @@
 # DICOM 4 Dermatology
 
 ## About
-This is a meta-repository of dicoderma (a Java library) and dit4ij (an ImageJ plugin). [Read this paper]() for more information.
+This is a meta-repository of dicoderma (a Java library) and dit4ij (an ImageJ plugin). [Read this paper](https://arxiv.org/abs/2102.08673) for more information.
 
 ### [dicoderma](https://github.com/dermatologist/dicoderma)
 Dermatology never really embraced DICOM for image management. Dicoderma is an attempt to narrow the rift by freeing dermatologists from the overhead of DICOM compliant infrastructure but gives some of the advantages like storing patient metadata with images. Dicoderma facilitates this by mapping DICOM tags to EXIF USER_CONTENT. You can also convert JPEG to DCM.  [More...](https://github.com/dermatologist/dicoderma)
