@@ -32,8 +32,13 @@ mvn -Dmaven.test.skip=true clean package
 Please submit pull requests in the submodules.
 
 ### Citation
-Please cite this work as below. [Read paper]()
+Please cite this work as below. [Read paper](https://arxiv.org/abs/2102.08673)
 
 ```
-More
+@article{eapenbr2021dicoderma,
+  title={DICODerma: A practical approach for metadata management of images in dermatology},
+  author={Eapen, Bell Raj and Kaliyadan, Feroze and T, Ashique Karalikkattil},
+  journal={arXiv preprint arXiv:2102.08673 },
+  year={2021}
+}
 ```
